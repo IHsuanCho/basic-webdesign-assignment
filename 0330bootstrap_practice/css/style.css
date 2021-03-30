@@ -1,0 +1,10 @@
+.navbar-brand img {
+	height: 50px;
+}
+
+@media (min-width: 768px) {
+/*nav選單*/
+	.navbar{
+	padding-left:50px!important;
+	padding-right:50px!important; 
+}
